@@ -11,5 +11,5 @@ Submitted:<br>
 [hello.py](hello-input.py)<br>
 [sentimental-mario-less.py](sentimental-mario-less.py)<br>
 [sentimental-mario-more.py](sentimental-mario-more.py)<br>
-
+[sentimental-cash.py](sentimental-cash.py)<br>
 
