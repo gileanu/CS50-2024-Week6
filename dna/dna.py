@@ -1,12 +1,12 @@
 import csv
 import sys
 
-
 def main():
 
     # Check for command-line usage
 
     if len(sys.argv) != 3:
+        print("Not enough command-line arguments.")
         sys.exit("USAGE: python dna.py [database] [sequance]")
 
     # TODO: Read database file into a variable
@@ -25,7 +25,8 @@ def main():
     # TODO: Find longest match of each STR in DNA sequence
 
     result = {}
-    subsequances = lis(database[0].keys())[1:]
+    subsequances = list(database[0].keys())[1:]
+    print(subsequances)
 
     # TODO: Check database for matching profiles
 
