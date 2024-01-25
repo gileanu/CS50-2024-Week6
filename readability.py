@@ -1,5 +1,8 @@
 from cs50 import get_string
 
+# 2 words input will result in an index > 16
+# making the program think the Grade > 16
+
 def main():
     text = get_string("Input text: ")
     
