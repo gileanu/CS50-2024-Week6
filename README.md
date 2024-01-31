@@ -1,7 +1,5 @@
 # CS50-Week6
 
-## Lab 6:
-
 ## Problem Set 6:
 
 https://cs50.harvard.edu/x/2024/psets/6/
@@ -13,3 +11,4 @@ Submitted:<br>
 [sentimental-mario-more.py](sentimental-mario-more.py)<br>
 [sentimental-cash.py](sentimental-cash.py)<br>
 [readability.py](readability.py)<br> 
+[dna.py](dna/dna.py)<br>)
