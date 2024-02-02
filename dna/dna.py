@@ -27,6 +27,8 @@ def main():
     result = {}
     subsequances = list(database[0].keys())[1:]
     print(subsequances)
+    print(database)
+    print(seq)
 
     # TODO: Check database for matching profiles
 
